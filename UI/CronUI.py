@@ -115,7 +115,7 @@ class CronTaskUI(Tk):
             e = "*"
         else:
             e = str(self.w)
-        s = '/PingWin/CORE/pingwinCron.sh "{} {} {} {} {}"'.format(a,b,c,d,e)
+        s = 'pingwinCron.sh "{} {} {} {} {}"'.format(a,b,c,d,e)
         try:
             subprocess.call(s, shell=True)
             self.stateVar.set("Added scheduled task succesfully")
@@ -130,6 +130,7 @@ def Handle():
     except Exception as s:
         a = s
     return a
+    
 
 def main():
     a = Handle()
