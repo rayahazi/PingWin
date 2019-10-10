@@ -88,7 +88,7 @@ def Handle():
     return a
           
 def openFolder(nameOfFile):
-    os.system("xdg-open /PingWin/UI/"+nameOfFile)
+    os.system("xdg-open "+nameOfFile)
 
 def ShowRes():  
     global a 
