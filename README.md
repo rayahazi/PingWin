@@ -88,3 +88,4 @@ Github link - https://github.com/edenberger
 * Show data while running (send and receive)
 * Add Encryption. 
 * Send data in a way that will not be discovered (diffrent sizes, bytes, etc..)
+* Add more protocols to the project
