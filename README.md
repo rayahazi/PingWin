@@ -79,6 +79,7 @@ $ sudo python3 CronUI.py
 ## Thanks:
 My mentor was Dr. Eden Berger, who helped a lot to bring my project to life. 
 Github link - https://github.com/edenberger
+Github link - @edenberger
 
 
 # TODO list:
