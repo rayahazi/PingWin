@@ -77,8 +77,9 @@ $ sudo python3 CronUI.py
 ![alt text](IMG/02.PNG)
 
 ## Thanks:
-My mentor was Dr. Eden Berger, who helped a lot to bring my project to life. 
-Github link - https://github.com/edenberger
+My mentor was [Eden Berger](https://github.com/edenberger)
+, who helped a lot to bring my project to life. 
+
 
 
 # TODO list:
