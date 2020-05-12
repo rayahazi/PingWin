@@ -19,44 +19,51 @@ This is a very basic implementation of the idea. I believe that it will get bett
 ### 1. Through CLI
 Run each command in a diffrent console:
 
-`Step One:`
+**Step One:**
+```bash
 $ cd PingWin/CORE/
 
 $ sudo python3 pingwinServer.py 
-
-`Step Two:`
+```
+**Step Two:**
+```bash
 $ cd PingWin/CORE/
 
 $ sudo python3 pingwinClient.py 
-
-`Scheduled task:`
+```
+**Scheduled task:**
+```bash
 $ cd PingWin/CORE/
-
+```
 Example of using Scheduled task: call file with time as argument
-
+```bash
 $ pingwinCron.sh * * * * * 
-
+```
 ### 2. Through GUI
 
-Run each command in a diffrent console:
+> Run each command in a diffrent console:
 
-`Step One:`
+**Step One:**
+```bash
 $ cd PingWin/UI/
-
+```
+```bash
 $ sudo python3 ReceiverUI.py 
-
+```
 * Click on 'start scanning' 
 
-`Step Two:`
+**Step Two:
+```bash
 $ cd PingWin/UI/
 
 $ sudo python3 SenderUI.py 
-
-`Scheduled task:`
+```
+**Scheduled task:**
+```bash
 $ cd PingWin/UI/
 
 $ sudo python3 CronUI.py 
-
+```
 ## Options
 ##### For full instructions: sudo python3 pingwinServer.py -h
 ### Sender:
