@@ -52,7 +52,7 @@ $ sudo python3 ReceiverUI.py
 ```
 * Click on 'start scanning' 
 
-**Step Two:
+**Step Two:**
 ```bash
 $ cd PingWin/UI/
 
