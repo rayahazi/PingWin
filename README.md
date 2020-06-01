@@ -79,9 +79,9 @@ $ sudo python3 CronUI.py
 * When all files are sent - file for each protocol is created from the data on the packets.  Buttons to open files will show on the screen. 
 
 ## Example in pictures:
-![alt text](IMG/00.PNG)
-![alt text](IMG/01.PNG)
-![alt text](IMG/02.PNG)
+<img src="IMG/00.PNG" height=400/>
+<img src="IMG/01.PNG" height=400/>
+<img src="IMG/02.PNG" height=400/>
 
 ## Thanks:
 My mentor was [Eden Berger](https://github.com/edenberger)
